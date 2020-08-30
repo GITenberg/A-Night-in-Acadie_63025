@@ -1,0 +1,35 @@
+_repo: A-Night-in-Acadie_63025
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Hazenplug, Frank
+    gutenberg_agent_id: '52235'
+    url: http://www.gutenberg.org/2009/agents/52235
+  - agent_name: Pape, Eric
+    birthdate: 1870
+    gutenberg_agent_id: '42144'
+    url: http://www.gutenberg.org/2009/agents/42144
+creator:
+  author:
+    agent_name: Chopin, Kate
+    aliases:
+    - O'Flaherty, Catherine
+    - Chopin, Katherine O'Flaherty
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '100'
+    url: http://www.gutenberg.org/2009/agents/100
+    wikipedia: https://en.wikipedia.org/wiki/Kate_Chopin
+description: ''
+gutenberg_issued: '2020-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Night in Acadie
+url: http://www.gutenberg.org/ebooks/63025
